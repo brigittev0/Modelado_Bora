@@ -2549,15 +2549,15 @@
               <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_pBwnYdz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20producto?"/>
             </end>
             <end xmi:id="_hzmTWeCvEe6TJtzZ4cJc5A">
-              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto?"/>
             </end>
           </ownedConnector>
           <ownedConnector xmi:id="_hzmTWuCvEe6TJtzZ4cJc5A">
             <end xmi:id="_hzmTW-CvEe6TJtzZ4cJc5A">
-              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto?"/>
             </end>
             <end xmi:id="_hzmTXOCvEe6TJtzZ4cJc5A">
-              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto?"/>
             </end>
           </ownedConnector>
           <ownedConnector xmi:id="_hzmTXeCvEe6TJtzZ4cJc5A">
@@ -2601,7 +2601,7 @@
             <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_pBwnYdz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20producto?"/>
           </lifeline>
           <lifeline xmi:id="_hzmTa-CvEe6TJtzZ4cJc5A" name="producto" coveredBy="_hzmThuCvEe6TJtzZ4cJc5A _hzmTh-CvEe6TJtzZ4cJc5A _hzmTmOCvEe6TJtzZ4cJc5A _hzmTiOCvEe6TJtzZ4cJc5A _hzmTieCvEe6TJtzZ4cJc5A _hzmTiuCvEe6TJtzZ4cJc5A _hzmTl-CvEe6TJtzZ4cJc5A _hzmTi-CvEe6TJtzZ4cJc5A _hzmTo-CvEe6TJtzZ4cJc5A _hzmTpOCvEe6TJtzZ4cJc5A _hzmTteCvEe6TJtzZ4cJc5A _hzmTpeCvEe6TJtzZ4cJc5A _hzmTpuCvEe6TJtzZ4cJc5A _hzmTp-CvEe6TJtzZ4cJc5A _hzmTtOCvEe6TJtzZ4cJc5A _hzmTqOCvEe6TJtzZ4cJc5A">
-            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto?"/>
           </lifeline>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTbOCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTuOCvEe6TJtzZ4cJc5A"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTbeCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTuOCvEe6TJtzZ4cJc5A"/>
@@ -2806,16 +2806,13 @@
         <ownedAttribute xmi:id="_nAbkIOCvEe6TJtzZ4cJc5A" name="selección de producto">
           <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_0A5BsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto?"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_nAbkIeCvEe6TJtzZ4cJc5A" name="producto">
-          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_09nvsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto?"/>
-        </ownedAttribute>
         <ownedAttribute xmi:id="_nAcLMOCvEe6TJtzZ4cJc5A" name="uI-Listado de productos">
           <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_69T54NzsEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_nAcyQOCvEe6TJtzZ4cJc5A" name="cC-Selección de producto">
           <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_0A5BsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto?"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_nAdZUOCvEe6TJtzZ4cJc5A" name="producto2">
+        <ownedAttribute xmi:id="_nAdZUOCvEe6TJtzZ4cJc5A" name="producto">
           <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_09nvsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto?"/>
         </ownedAttribute>
       </packagedElement>
@@ -3625,6 +3622,127 @@
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Dqy_MuCiEe6jBuLssSgrtw" name="ReceiveOperationEvent7" operation="_Dqy_MOCiEe6jBuLssSgrtw"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_GfYmseCiEe6jBuLssSgrtw" name="SendOperationEvent8" operation="_GfYmsOCiEe6jBuLssSgrtw"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_GfYmsuCiEe6jBuLssSgrtw" name="ReceiveOperationEvent8" operation="_GfYmsOCiEe6jBuLssSgrtw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DFxMQOCyEe6cW5lZ2wd9eA" name="Copy_1_Usuario">
+        <ownedAttribute xmi:id="_DFxMQeCyEe6cW5lZ2wd9eA" name="autenticación y Validación" visibility="private">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ki40oNtNEe6Dx7dh4oBfTQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Autenticación%20y%20Validación?"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DFxMQuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DFxMQ-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DFzBcOCyEe6cW5lZ2wd9eA" name="UI-Dashboard" isAbstract="true">
+        <ownedAttribute xmi:id="_DFzBceCyEe6cW5lZ2wd9eA" name="cliente" visibility="private" association="_DF_1wOCyEe6cW5lZ2wd9eA">
+          <type xmi:type="uml:Actor" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20Caso%20de%20Uso.emx#_jNncAMrFEe6JpLQQPsCucw?Modelo%20de%20Caso%20de%20Uso/ACTORES%20DE%20SISTEMA/Cliente?"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DFzBcuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DFzBc-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DFzBdOCyEe6cW5lZ2wd9eA" name="uI-Catálogo" visibility="private" type="_DF0PkOCyEe6cW5lZ2wd9eA" association="_DGF8YOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DFzBdeCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DFzBduCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DFzBd-CyEe6cW5lZ2wd9eA" name="cC-Selección de recomendación" visibility="private" type="_DF1dsOCyEe6cW5lZ2wd9eA" association="_DGGjcOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DFzBeOCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DFzBeeCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DFzBeuCyEe6cW5lZ2wd9eA" name="Buscar producto recomendado y presionar"/>
+        <ownedOperation xmi:id="_DFzBe-CyEe6cW5lZ2wd9eA" name="Crear la respuesta para listar productos"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF0PkOCyEe6cW5lZ2wd9eA" name="UI-Catálogo" isAbstract="true">
+        <ownedAttribute xmi:id="_DF0PkeCyEe6cW5lZ2wd9eA" name="uI-Dashboard" visibility="private" type="_DFzBcOCyEe6cW5lZ2wd9eA" association="_DGF8YOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF0PkuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF0Pk-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF0PlOCyEe6cW5lZ2wd9eA" name="selección de categoría" visibility="private" type="_DF3S4OCyEe6cW5lZ2wd9eA" association="_DGHKgOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF0PleCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF0PluCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF0Pl-CyEe6cW5lZ2wd9eA" name="uI-Listado de productos" visibility="private" type="_DF8ycOCyEe6cW5lZ2wd9eA" association="_DGHxkOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF0PmOCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF0PmeCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF1dsOCyEe6cW5lZ2wd9eA" name="CC-Selección de recomendación" isAbstract="true">
+        <ownedAttribute xmi:id="_DF1dseCyEe6cW5lZ2wd9eA" name="selección de producto" visibility="private" type="_DF4hAOCyEe6cW5lZ2wd9eA" association="_DGIYoOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF1dsuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF1ds-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF1dtOCyEe6cW5lZ2wd9eA" name="uI-Dashboard" visibility="private" type="_DFzBcOCyEe6cW5lZ2wd9eA" association="_DGGjcOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF1dteCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF1dtuCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DF1dt-CyEe6cW5lZ2wd9eA" name="Presionar el ícono de catálogo"/>
+        <ownedOperation xmi:id="_DF1duOCyEe6cW5lZ2wd9eA" name="Obtener id de producto y enviar al controlador"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF3S4OCyEe6cW5lZ2wd9eA" name="CC-Selección de categoría" isAbstract="true">
+        <ownedAttribute xmi:id="_DF3S4eCyEe6cW5lZ2wd9eA" name="uI-Catálogo" visibility="private" type="_DF0PkOCyEe6cW5lZ2wd9eA" association="_DGHKgOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF3S4uCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF3S4-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF3S5OCyEe6cW5lZ2wd9eA" name="categoría" visibility="private" type="_DF7kUOCyEe6cW5lZ2wd9eA" association="_DGKN0OCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF3S5eCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF3S5uCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DF3S5-CyEe6cW5lZ2wd9eA" name="Buscar categoría y presionar"/>
+        <ownedOperation xmi:id="_DF3S6OCyEe6cW5lZ2wd9eA" name="Enviar información sobre la consulta"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF4hAOCyEe6cW5lZ2wd9eA" name="CC-Selección de producto" isAbstract="true">
+        <ownedAttribute xmi:id="_DF4hAeCyEe6cW5lZ2wd9eA" name="cC-Selección de recomendación" visibility="private" type="_DF1dsOCyEe6cW5lZ2wd9eA" association="_DGIYoOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF4hAuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF4hA-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF4hBOCyEe6cW5lZ2wd9eA" name="producto" visibility="private" type="_DF6WMOCyEe6cW5lZ2wd9eA" association="_DGJmwOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF4hBeCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF4hBuCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF4hB-CyEe6cW5lZ2wd9eA" name="uI-Listado de productos" visibility="private" type="_DF8ycOCyEe6cW5lZ2wd9eA" association="_DGI_sOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF4hCOCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF4hCeCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DF4hCuCyEe6cW5lZ2wd9eA" name="Enviar información sobre la consulta"/>
+        <ownedOperation xmi:id="_DF4hC-CyEe6cW5lZ2wd9eA" name="Obtener id de producto y enviar al controlador"/>
+        <ownedOperation xmi:id="_DF4hDOCyEe6cW5lZ2wd9eA" name="Enviar información sobre la consulta"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF6WMOCyEe6cW5lZ2wd9eA" name="Producto" isAbstract="true">
+        <ownedAttribute xmi:id="_DF6WMeCyEe6cW5lZ2wd9eA" name="cC-Selección de recomendación" visibility="private" type="_DF4hAOCyEe6cW5lZ2wd9eA" association="_DGJmwOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF6WMuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF6WM-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DF6WNOCyEe6cW5lZ2wd9eA" name="Enviar la consulta de búsqueda de productos por categoría"/>
+        <ownedOperation xmi:id="_DF6WNeCyEe6cW5lZ2wd9eA" name="Validar datos"/>
+        <ownedOperation xmi:id="_DF6WNuCyEe6cW5lZ2wd9eA" name="Validar dato especificado"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF7kUOCyEe6cW5lZ2wd9eA" name="Categoría" isAbstract="true">
+        <ownedAttribute xmi:id="_DF7kUeCyEe6cW5lZ2wd9eA" name="selección de categoría" visibility="private" type="_DF3S4OCyEe6cW5lZ2wd9eA" association="_DGKN0OCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF7kUuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF7kU-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DF7kVOCyEe6cW5lZ2wd9eA" name="Enviar la consulta de búsqueda de categoría por id"/>
+        <ownedOperation xmi:id="_DF7kVeCyEe6cW5lZ2wd9eA" name="Validar dato especificado"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_DF8ycOCyEe6cW5lZ2wd9eA" name="UI-Listado de productos" isAbstract="true">
+        <ownedAttribute xmi:id="_DF8yceCyEe6cW5lZ2wd9eA" name="uI-Catálogo" visibility="private" type="_DF0PkOCyEe6cW5lZ2wd9eA" association="_DGHxkOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF8ycuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF8yc-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_DF8ydOCyEe6cW5lZ2wd9eA" name="cC-Selección de producto" visibility="private" type="_DF4hAOCyEe6cW5lZ2wd9eA" association="_DGI_sOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF8ydeCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF8yduCyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_DF8yd-CyEe6cW5lZ2wd9eA" name="Crear la respuesta para listar productos"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DF_1wOCyEe6cW5lZ2wd9eA" memberEnd="_DF_1weCyEe6cW5lZ2wd9eA _DFzBceCyEe6cW5lZ2wd9eA" navigableOwnedEnd="_DF_1weCyEe6cW5lZ2wd9eA">
+        <ownedEnd xmi:id="_DF_1weCyEe6cW5lZ2wd9eA" name="uI-Dashboard" visibility="private" type="_DFzBcOCyEe6cW5lZ2wd9eA" association="_DF_1wOCyEe6cW5lZ2wd9eA">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DF_1wuCyEe6cW5lZ2wd9eA" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DF_1w-CyEe6cW5lZ2wd9eA" value="1"/>
+        </ownedEnd>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGF8YOCyEe6cW5lZ2wd9eA" memberEnd="_DFzBdOCyEe6cW5lZ2wd9eA _DF0PkeCyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGGjcOCyEe6cW5lZ2wd9eA" memberEnd="_DFzBd-CyEe6cW5lZ2wd9eA _DF1dtOCyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGHKgOCyEe6cW5lZ2wd9eA" memberEnd="_DF0PlOCyEe6cW5lZ2wd9eA _DF3S4eCyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGHxkOCyEe6cW5lZ2wd9eA" memberEnd="_DF0Pl-CyEe6cW5lZ2wd9eA _DF8yceCyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGIYoOCyEe6cW5lZ2wd9eA" memberEnd="_DF1dseCyEe6cW5lZ2wd9eA _DF4hAeCyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGI_sOCyEe6cW5lZ2wd9eA" memberEnd="_DF8ydOCyEe6cW5lZ2wd9eA _DF4hB-CyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGJmwOCyEe6cW5lZ2wd9eA" memberEnd="_DF4hBOCyEe6cW5lZ2wd9eA _DF6WMeCyEe6cW5lZ2wd9eA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DGKN0OCyEe6cW5lZ2wd9eA" memberEnd="_DF3S5OCyEe6cW5lZ2wd9eA _DF7kUeCyEe6cW5lZ2wd9eA"/>
     </packagedElement>
     <profileApplication xmi:id="_nwvFrttBEe6Dx7dh4oBfTQ">
       <eAnnotations xmi:id="_nwvFr9tBEe6Dx7dh4oBfTQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -3668,4 +3786,13 @@
   <RUPAnalysis:Boundary xmi:id="_vgyO4OCfEe6jBuLssSgrtw" base_Class="_u8_lUOCfEe6jBuLssSgrtw"/>
   <RUPAnalysis:Entity xmi:id="_1YK5AOCfEe6jBuLssSgrtw" base_Class="_1ItgsOCfEe6jBuLssSgrtw"/>
   <RUPAnalysis:Control xmi:id="_DcoSQOCgEe6jBuLssSgrtw" base_Class="_DNGogOCgEe6jBuLssSgrtw"/>
+  <RUPAnalysis:Entity xmi:id="_DGMDAOCyEe6cW5lZ2wd9eA" base_Class="_DFxMQOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Boundary xmi:id="_DGiBQOCyEe6cW5lZ2wd9eA" base_Class="_DFzBcOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Boundary xmi:id="_DGiBQeCyEe6cW5lZ2wd9eA" base_Class="_DF0PkOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Control xmi:id="_DGiBQuCyEe6cW5lZ2wd9eA" base_Class="_DF1dsOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Control xmi:id="_DGioUOCyEe6cW5lZ2wd9eA" base_Class="_DF3S4OCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Control xmi:id="_DGioUeCyEe6cW5lZ2wd9eA" base_Class="_DF4hAOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Entity xmi:id="_DGioUuCyEe6cW5lZ2wd9eA" base_Class="_DF6WMOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Entity xmi:id="_DGioU-CyEe6cW5lZ2wd9eA" base_Class="_DF7kUOCyEe6cW5lZ2wd9eA"/>
+  <RUPAnalysis:Boundary xmi:id="_DGjPYOCyEe6cW5lZ2wd9eA" base_Class="_DF8ycOCyEe6cW5lZ2wd9eA"/>
 </xmi:XMI>

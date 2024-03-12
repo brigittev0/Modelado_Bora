@@ -1035,7 +1035,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_xKTOBttHEe6Dx7dh4oBfTQ" type="Parent"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_xKTOB9tHEe6Dx7dh4oBfTQ" visible="false" type="AttributeCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_xKT1ENtHEe6Dx7dh4oBfTQ" type="CollaborationCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xKTOAdtHEe6Dx7dh4oBfTQ" x="11748" y="11616"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xKTOAdtHEe6Dx7dh4oBfTQ" x="10614" y="15738"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_2mHWcNtHEe6Dx7dh4oBfTQ" element="_2mGIUNtHEe6Dx7dh4oBfTQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
             <children xmi:type="notation:DecorationNode" xmi:id="_2mHWcttHEe6Dx7dh4oBfTQ" type="ImageCompartment">
@@ -1550,7 +1550,1275 @@
       <packagedElement xmi:type="uml:Realization" xmi:id="_aCiBMNtHEe6Dx7dh4oBfTQ" client="_XyOLcNtHEe6Dx7dh4oBfTQ">
         <supplier xmi:type="uml:UseCase" href="Modelo%20de%20Caso%20de%20Uso.emx#_YM8ucMrGEe6JpLQQPsCucw?Modelo%20de%20Caso%20de%20Uso/CASOS%20DE%20USO%20DE%20SISTEMA/%20Visualizar%20un%20Carrito%20de%20Compras?"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_xKR_4NtHEe6Dx7dh4oBfTQ" name="RA_Dashboard" clientDependency="_xmezsNtHEe6Dx7dh4oBfTQ _ww4roNtLEe6Dx7dh4oBfTQ _xJOTINtLEe6Dx7dh4oBfTQ"/>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_xKR_4NtHEe6Dx7dh4oBfTQ" name="RA_Dashboard" clientDependency="_xmezsNtHEe6Dx7dh4oBfTQ _ww4roNtLEe6Dx7dh4oBfTQ _xJOTINtLEe6Dx7dh4oBfTQ">
+        <eAnnotations xmi:id="_JCw2gOCvEe6TJtzZ4cJc5A" source="uml2.diagrams">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_JCw2geCvEe6TJtzZ4cJc5A" type="Class" name="DC_Dashboard">
+            <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_bAluAOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAluAeCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAluAuCvEe6TJtzZ4cJc5A" width="1455" height="2381"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluA-CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluBOCvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluBeCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <element xmi:type="uml:Actor" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20Caso%20de%20Uso.emx#_jNncAMrFEe6JpLQQPsCucw?Modelo%20de%20Caso%20de%20Uso/ACTORES%20DE%20SISTEMA/Cliente?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAluBuCvEe6TJtzZ4cJc5A" x="854" y="737"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAluB-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAluCOCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAluCeCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluCuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluC-CvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluDOCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAluDeCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAluDuCvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAluD-CvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAluEOCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_n40coNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAluEeCvEe6TJtzZ4cJc5A" x="5159" y="805"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAluEuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAluE-CvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAluFOCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluFeCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluFuCvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAluF-CvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAluGOCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAluGeCvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAluGuCvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAluG-CvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_t0zS4NzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAluHOCvEe6TJtzZ4cJc5A" x="18020" y="867"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAmVEOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAmVEeCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAmVEuCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAmVE-CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAmVFOCvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAmVFeCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAmVFuCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAmVF-CvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAmVGOCvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAmVGeCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_xfLS4NzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAmVGuCvEe6TJtzZ4cJc5A" x="5965" y="5184"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAmVG-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAmVHOCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAmVHeCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAmVHuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAmVH-CvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAmVIOCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAmVIeCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAmVIuCvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAmVI-CvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAmVJOCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_y-0gsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAmVJeCvEe6TJtzZ4cJc5A" x="23144" y="610"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAm8IOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAm8IeCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAm8IuCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAm8I-CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAm8JOCvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAm8JeCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAm8JuCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAm8J-CvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAm8KOCvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAm8KeCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_0A5BsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAm8KuCvEe6TJtzZ4cJc5A" x="17080" y="9760"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAm8K-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAm8LOCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAm8LeCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAm8LuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAm8L-CvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAm8MOCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAm8MeCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAm8MuCvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAm8M-CvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAm8NOCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_09nvsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAm8NeCvEe6TJtzZ4cJc5A" x="7564" y="9760"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAnjMOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAnjMeCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAnjMuCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAnjM-CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAnjNOCvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAnjNeCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAnjNuCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAnjN-CvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAnjOOCvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAnjOeCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_1lb9oNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Categoría?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAnjOuCvEe6TJtzZ4cJc5A" x="22252" y="4989"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_bAoKQOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAoKQeCvEe6TJtzZ4cJc5A" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_bAoKQuCvEe6TJtzZ4cJc5A" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAoKQ-CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAoKROCvEe6TJtzZ4cJc5A" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAoKReCvEe6TJtzZ4cJc5A" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAoKRuCvEe6TJtzZ4cJc5A" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAoKR-CvEe6TJtzZ4cJc5A" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAoKSOCvEe6TJtzZ4cJc5A" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bAoKSeCvEe6TJtzZ4cJc5A" visible="false" type="StructureCompartment"/>
+              <element xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_69T54NzsEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos?"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAoKSuCvEe6TJtzZ4cJc5A" x="17202" y="5246"/>
+            </children>
+            <element xsi:nil="true"/>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAoxUOCvEe6TJtzZ4cJc5A" source="_bAluAOCvEe6TJtzZ4cJc5A" target="_bAluB-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAoxUeCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAoxUuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAoxU-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAoxVOCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAoxVeCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAoxVuCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zm1IQNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cliente?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAoxV-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYYOCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bApYYeCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zm1IQNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cliente?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYYuCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYY-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bApYZOCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zmw20NzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYZeCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYZuCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bApYZ-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zmw20NzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYaOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYaeCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bApYauCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zm1IQNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cliente?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYa-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYbOCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bApYbeCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zmw20NzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYbuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYb-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bApYcOCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zm1IQNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cliente?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYceCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bApYcuCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bApYc-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Zmw20NzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bApYdOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ZmjbcNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bApYdeCvEe6TJtzZ4cJc5A" points="[-4, -48, -4761, 0]$[1587, -48, -3170, 0]$[4201, -48, -556, 0]"/>
+              <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bApYduCvEe6TJtzZ4cJc5A" id="(0.822680412371134,0.39773204535909285)"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAqmgOCvEe6TJtzZ4cJc5A" source="_bAluB-CvEe6TJtzZ4cJc5A" target="_bAluEuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmgeCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAqmguCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAqmg-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAqmhOCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmheCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAqmhuCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHaFwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmh-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmiOCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAqmieCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHaFwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmiuCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmi-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAqmjOCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHYQkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmjeCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmjuCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAqmj-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHYQkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmkOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmkeCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAqmkuCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHaFwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmk-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmlOCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAqmleCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHYQkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmluCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqml-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAqmmOCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHaFwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmmeCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAqmmuCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAqmm-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHYQkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAqmnOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_aHXCcNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAqmneCvEe6TJtzZ4cJc5A" points="[49, -6, -370, 39]$[418, -63, -1, -18]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAr0oOCvEe6TJtzZ4cJc5A" source="_bAluEuCvEe6TJtzZ4cJc5A" target="_bAmVG-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0oeCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAr0ouCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAr0o-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAr0pOCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0peCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAr0puCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anD2MNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0p-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0qOCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAr0qeCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anD2MNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0quCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0q-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAr0rOCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anCBANzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0reCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0ruCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAr0r-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anCBANzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0sOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0seCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAr0suCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anD2MNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0s-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0tOCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAr0teCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anCBANzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0tuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0t-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAr0uOCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anD2MNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0ueCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAr0uuCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAr0u-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anCBANzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAr0vOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_anBZ8NzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAr0veCvEe6TJtzZ4cJc5A" points="[472, 0, -6471, 257]$[2605, 0, -4338, 257]$[6529, 0, -414, 257]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAsbsOCvEe6TJtzZ4cJc5A" source="_bAmVG-CvEe6TJtzZ4cJc5A" target="_bAnjMOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAsbseCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtCwOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtCweCvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAtCwuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtCw-CvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtCxOCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMEnwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Categoría/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtCxeCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtCxuCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtCx-CvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMEnwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Categoría/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtCyOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtCyeCvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtCyuCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMCykNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtCy-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtCzOCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtCzeCvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMCykNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtCzuCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtCz-CvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAtC0OCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMEnwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Categoría/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtC0eCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtC0uCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAtC0-CvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMCykNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtC1OCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtC1eCvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAtC1uCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMEnwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Categoría/selección%20de%20categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtC1-CvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtC2OCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAtC2eCvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMCykNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría/categoría?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtC2uCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_bMBkcNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAtC2-CvEe6TJtzZ4cJc5A" points="[12, 22, -17, -53]$[39, 68, 10, -7]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAtp0OCvEe6TJtzZ4cJc5A" source="_bAm8IOCvEe6TJtzZ4cJc5A" target="_bAm8K-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp0eCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtp0uCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtp0-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAtp1OCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp1eCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtp1uCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btyNsNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp1-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp2OCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtp2eCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btyNsNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp2uCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp2-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtp3OCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btw_kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp3eCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp3uCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAtp3-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btw_kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp4OCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp4eCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAtp4uCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btyNsNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp4-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp5OCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAtp5eCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btw_kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp5uCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp5-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAtp6OCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btyNsNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp6eCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAtp6uCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAtp6-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btw_kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAtp7OCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_btvxcNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAtp7eCvEe6TJtzZ4cJc5A" points="[11, 22, -20, -58]$[41, 104, 10, 24]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAu38OCvEe6TJtzZ4cJc5A" source="_bAmVEOCvEe6TJtzZ4cJc5A" target="_bAm8IOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu38eCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAu38uCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAu38-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAu39OCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu39eCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAu39uCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFSuwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu39-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu3-OCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAu3-eCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFSuwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu3-uCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu3--CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAu3_OCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFQ5kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu3_eCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu3_uCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAu3_-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFQ5kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu4AOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu4AeCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAu4AuCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFSuwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu4A-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu4BOCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAu4BeCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFQ5kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu4BuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu4B-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAu4COCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFSuwNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu4CeCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAu4CuCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAu4C-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFQ5kNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAu4DOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cFPrcNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAu4DeCvEe6TJtzZ4cJc5A" points="[99, -22, -129, 33]$[220, -33, -8, 22]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAwGEOCvEe6TJtzZ4cJc5A" source="_bAluB-CvEe6TJtzZ4cJc5A" target="_bAmVEOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGEeCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAwGEuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAwGE-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAwGFOCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGFeCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAwGFuCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca81sNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGF-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGGOCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAwGGeCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca81sNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGGuCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGG-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAwGHOCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca7nkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGHeCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGHuCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAwGH-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca7nkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGIOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGIeCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAwGIuCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca81sNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGI-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGJOCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAwGJeCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca7nkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGJuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGJ-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAwGKOCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca81sNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación/uI-Dashboard?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGKeCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAwGKuCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAwGK-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca7nkNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard/cC-Selección%20de%20recomendación?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAwGLOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ca6ZcNzqEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAwGLeCvEe6TJtzZ4cJc5A" points="[9, 22, -2, -68]$[9, 113, -2, 23]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAxUMOCvEe6TJtzZ4cJc5A" source="_bAluEuCvEe6TJtzZ4cJc5A" target="_bAoKQOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUMeCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAxUMuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAxUM-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAxUNOCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUNeCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAxUNuCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDEAENztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUN-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUOOCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAxUOeCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDEAENztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUOuCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUO-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAxUPOCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDBj0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUPeCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUPuCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAxUP-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDBj0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUQOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUQeCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAxUQuCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDEAENztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUQ-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUROCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAxUReCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDBj0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxURuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUR-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAxUSOCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDEAENztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/uI-Catálogo?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUSeCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAxUSuCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAxUS-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fDBj0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAxUTOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_fC_uoNztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAxUTeCvEe6TJtzZ4cJc5A" points="[-32, 17, 96, -47]$[-115, 61, 13, -3]"/>
+            </edges>
+            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bAyiUOCvEe6TJtzZ4cJc5A" source="_bAoKQOCvEe6TJtzZ4cJc5A" target="_bAm8IOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiUeCvEe6TJtzZ4cJc5A" type="NameLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAyiUuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAyiU-CvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bAyiVOCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiVeCvEe6TJtzZ4cJc5A" visible="false" type="ToMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAyiVuCvEe6TJtzZ4cJc5A" type="ToMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0Lc0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiV-CvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiWOCvEe6TJtzZ4cJc5A" visible="false" type="ToRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAyiWeCvEe6TJtzZ4cJc5A" type="ToRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0Lc0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiWuCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiW-CvEe6TJtzZ4cJc5A" visible="false" type="FromMultiplicityLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAyiXOCvEe6TJtzZ4cJc5A" type="FromMultiplicity"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0KOsNztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/cC-Selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiXeCvEe6TJtzZ4cJc5A" y="366"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiXuCvEe6TJtzZ4cJc5A" visible="false" type="FromRoleLabel">
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_bAyiX-CvEe6TJtzZ4cJc5A" type="FromRole"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0KOsNztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/cC-Selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiYOCvEe6TJtzZ4cJc5A" y="-367"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiYeCvEe6TJtzZ4cJc5A" type="ToQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAyiYuCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0Lc0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiY-CvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiZOCvEe6TJtzZ4cJc5A" type="FromQualifierLabel">
+                <children xmi:type="notation:SemanticListCompartment" xmi:id="_bAyiZeCvEe6TJtzZ4cJc5A" type="QualifierCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0KOsNztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/cC-Selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiZuCvEe6TJtzZ4cJc5A" y="-171"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiZ-CvEe6TJtzZ4cJc5A" type="ToConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAyiaOCvEe6TJtzZ4cJc5A" type="ToConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0Lc0NztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto/uI-Listado%20de%20productos?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyiaeCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_bAyiauCvEe6TJtzZ4cJc5A" type="FromConstraintLabel">
+                <children xmi:type="notation:ListCompartment" xmi:id="_bAyia-CvEe6TJtzZ4cJc5A" type="FromConstraintCompartment"/>
+                <element xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0KOsNztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos/cC-Selección%20de%20producto?"/>
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_bAyibOCvEe6TJtzZ4cJc5A" y="976"/>
+              </children>
+              <element xmi:type="uml:Association" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_h0JAkNztEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/%3CAssociation%3E?"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bAyibeCvEe6TJtzZ4cJc5A" points="[-32, 17, 36, -6]$[-57, 30, 11, 7]"/>
+            </edges>
+          </contents>
+        </eAnnotations>
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_hzlr0OCvEe6TJtzZ4cJc5A" name="Interaction1">
+          <eAnnotations xmi:id="_hzlr0eCvEe6TJtzZ4cJc5A" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hzlr0uCvEe6TJtzZ4cJc5A" type="Sequence" element="_hzlr0OCvEe6TJtzZ4cJc5A" name="DS_Visualizar Dasboard" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr0-CvEe6TJtzZ4cJc5A" element="_hzlr0OCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Image">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hzlr1OCvEe6TJtzZ4cJc5A" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr1eCvEe6TJtzZ4cJc5A" element="_hzmTY-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlr1uCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlr1-CvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr2OCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr2eCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr2uCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlr2-CvEe6TJtzZ4cJc5A" x="438" y="48" width="2897" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr3OCvEe6TJtzZ4cJc5A" element="_hzmTZOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlr3eCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlr3uCvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr3-CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr4OCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr4eCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlr4uCvEe6TJtzZ4cJc5A" x="2471" y="-684" width="4680" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr4-CvEe6TJtzZ4cJc5A" element="_hzmTZeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlr5OCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlr5eCvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr5uCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr5-CvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr6OCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlr6eCvEe6TJtzZ4cJc5A" x="-7747" y="48" width="9515" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr6uCvEe6TJtzZ4cJc5A" element="_hzmTZuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlr6-CvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlr7OCvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr7eCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr7uCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr7-CvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlr8OCvEe6TJtzZ4cJc5A" x="-17432" y="48" width="4240" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr8eCvEe6TJtzZ4cJc5A" element="_hzmTZ-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlr8uCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlr8-CvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr9OCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr9eCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr9uCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlr9-CvEe6TJtzZ4cJc5A" x="-21842" y="48" width="6878" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr-OCvEe6TJtzZ4cJc5A" element="_hzmTaOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlr-eCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlr-uCvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr--CvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr_OCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlr_eCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlr_uCvEe6TJtzZ4cJc5A" x="2603" y="-684" width="3581" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlr_-CvEe6TJtzZ4cJc5A" element="_hzmTbuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsAOCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="757"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsAeCvEe6TJtzZ4cJc5A" element="_hzmTcuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsAuCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="293"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsA-CvEe6TJtzZ4cJc5A" element="_hzmTdeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsBOCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="1294"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsBeCvEe6TJtzZ4cJc5A" element="_hzmTeOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsBuCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="1294"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsB-CvEe6TJtzZ4cJc5A" element="_hzmTe-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsCOCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="830"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsCeCvEe6TJtzZ4cJc5A" element="_hzmTfuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsCuCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="1221"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsC-CvEe6TJtzZ4cJc5A" element="_hzmTgeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsDOCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="1025"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsDeCvEe6TJtzZ4cJc5A" element="_hzmThOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsDuCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="781"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsD-CvEe6TJtzZ4cJc5A" element="_hzmTaeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlsEOCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlsEeCvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsEuCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsE-CvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsFOCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsFeCvEe6TJtzZ4cJc5A" x="1421" y="170" width="7317" height="8876"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsFuCvEe6TJtzZ4cJc5A" element="_hzmTauCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlsF-CvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlsGOCvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsGeCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsGuCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsG-CvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsHOCvEe6TJtzZ4cJc5A" x="170" y="132" width="7879" height="21378"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsHeCvEe6TJtzZ4cJc5A" element="_hzmTa-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <eAnnotations xmi:id="_hzlsHuCvEe6TJtzZ4cJc5A" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_hzlsH-CvEe6TJtzZ4cJc5A" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsIOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsIeCvEe6TJtzZ4cJc5A" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsIuCvEe6TJtzZ4cJc5A" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsI-CvEe6TJtzZ4cJc5A" x="4520" y="170" width="3678" height="8792"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsJOCvEe6TJtzZ4cJc5A" element="_hzmTh-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsJeCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="464"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsJuCvEe6TJtzZ4cJc5A" element="_hzmTiuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsJ-CvEe6TJtzZ4cJc5A" x="-1" y="1362" height="537"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsKOCvEe6TJtzZ4cJc5A" element="_hzmTjeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsKeCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="512"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsKuCvEe6TJtzZ4cJc5A" element="_hzmTkOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsK-CvEe6TJtzZ4cJc5A" x="-1" y="1362" height="464"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsLOCvEe6TJtzZ4cJc5A" element="_hzmToeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsLeCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="244"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsLuCvEe6TJtzZ4cJc5A" element="_hzmTpOCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsL-CvEe6TJtzZ4cJc5A" x="-1" y="1362" height="512"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsMOCvEe6TJtzZ4cJc5A" element="_hzmTp-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsMeCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="488"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsMuCvEe6TJtzZ4cJc5A" element="_hzmTquCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsM-CvEe6TJtzZ4cJc5A" x="-1" y="1362" height="732"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsNOCvEe6TJtzZ4cJc5A" element="_hzmTreCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsNeCvEe6TJtzZ4cJc5A" x="-1" y="1362" height="512"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_hzlsNuCvEe6TJtzZ4cJc5A" element="_hzmTk-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsN-CvEe6TJtzZ4cJc5A" x="-1" y="1362" height="1362"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsOOCvEe6TJtzZ4cJc5A" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsOeCvEe6TJtzZ4cJc5A" width="67584" height="20809"/>
+              </children>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsOuCvEe6TJtzZ4cJc5A" element="_hzmTuOCvEe6TJtzZ4cJc5A" source="_hzlr1eCvEe6TJtzZ4cJc5A" target="_hzlr1eCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsO-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsPOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsPeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsPuCvEe6TJtzZ4cJc5A" x="-489" y="-699"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsP-CvEe6TJtzZ4cJc5A" points="[0, 0, 0, -8]$[0, 8, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsQOCvEe6TJtzZ4cJc5A" id="26:1734"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsQeCvEe6TJtzZ4cJc5A" id="31:265"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsQuCvEe6TJtzZ4cJc5A" element="_hzmTueCvEe6TJtzZ4cJc5A" source="_hzlr1eCvEe6TJtzZ4cJc5A" target="_hzlr3OCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsQ-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsROCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsReCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsRuCvEe6TJtzZ4cJc5A" x="169" y="-250"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsR-CvEe6TJtzZ4cJc5A" points="[0, 0, -202, 0]$[202, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsSOCvEe6TJtzZ4cJc5A" id="140:176"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsSeCvEe6TJtzZ4cJc5A" id="178:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsSuCvEe6TJtzZ4cJc5A" element="_hzmTuuCvEe6TJtzZ4cJc5A" source="_hzlr3OCvEe6TJtzZ4cJc5A" target="_hzlr6uCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsS-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsTOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsTeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsTuCvEe6TJtzZ4cJc5A" y="-293"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsT-CvEe6TJtzZ4cJc5A" points="[0, 0, -372, 0]$[372, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsUOCvEe6TJtzZ4cJc5A" id="220:176"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsUeCvEe6TJtzZ4cJc5A" id="261:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsUuCvEe6TJtzZ4cJc5A" element="_hzmTu-CvEe6TJtzZ4cJc5A" source="_hzlr6uCvEe6TJtzZ4cJc5A" target="_hzlr8eCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsU-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsVOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsVeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsVuCvEe6TJtzZ4cJc5A" y="-293"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsV-CvEe6TJtzZ4cJc5A" points="[0, 0, -293, 0]$[293, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsWOCvEe6TJtzZ4cJc5A" id="299:635"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsWeCvEe6TJtzZ4cJc5A" id="346:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsWuCvEe6TJtzZ4cJc5A" element="_hzmTvOCvEe6TJtzZ4cJc5A" source="_hzlr8eCvEe6TJtzZ4cJc5A" target="_hzlr-OCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsW-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsXOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsXeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsXuCvEe6TJtzZ4cJc5A" x="48" y="-290"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsX-CvEe6TJtzZ4cJc5A" points="[0, 0, -276, 0]$[276, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsYOCvEe6TJtzZ4cJc5A" id="373:332"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsYeCvEe6TJtzZ4cJc5A" id="405:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsYuCvEe6TJtzZ4cJc5A" element="_hzmTveCvEe6TJtzZ4cJc5A" source="_hzlr-OCvEe6TJtzZ4cJc5A" target="_hzlr-OCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsY-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsZOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsZeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsZuCvEe6TJtzZ4cJc5A" x="-734" y="-1418"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsZ-CvEe6TJtzZ4cJc5A" points="[0, 0, 0, -14]$[0, 14, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsaOCvEe6TJtzZ4cJc5A" id="601:429"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsaeCvEe6TJtzZ4cJc5A" id="606:265"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlsauCvEe6TJtzZ4cJc5A" element="_hzmTvuCvEe6TJtzZ4cJc5A" source="_hzlr-OCvEe6TJtzZ4cJc5A" target="_hzlsD-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsa-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsbOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsbeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsbuCvEe6TJtzZ4cJc5A" y="-439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsb-CvEe6TJtzZ4cJc5A" points="[0, 0, 401, 0]$[-401, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlscOCvEe6TJtzZ4cJc5A" id="614:805"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlsceCvEe6TJtzZ4cJc5A" id="842:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlscuCvEe6TJtzZ4cJc5A" element="_hzmTv-CvEe6TJtzZ4cJc5A" source="_hzlsD-CvEe6TJtzZ4cJc5A" target="_hzlsFuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlsc-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsdOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzlsdeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzlsduCvEe6TJtzZ4cJc5A" y="-439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzlsd-CvEe6TJtzZ4cJc5A" points="[0, 0, 293, 0]$[-293, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlseOCvEe6TJtzZ4cJc5A" id="920:-245"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzlseeCvEe6TJtzZ4cJc5A" id="935:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzlseuCvEe6TJtzZ4cJc5A" element="_hzmTwOCvEe6TJtzZ4cJc5A" source="_hzlsFuCvEe6TJtzZ4cJc5A" target="_hzlsHeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzlse-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS4OCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS4eCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmS4uCvEe6TJtzZ4cJc5A" y="-293"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmS4-CvEe6TJtzZ4cJc5A" points="[0, 0, -183, 0]$[183, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS5OCvEe6TJtzZ4cJc5A" id="953:326"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS5eCvEe6TJtzZ4cJc5A" id="979:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmS5uCvEe6TJtzZ4cJc5A" element="_hzmTweCvEe6TJtzZ4cJc5A" source="_hzlsHeCvEe6TJtzZ4cJc5A" target="_hzlsHeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmS5-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS6OCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS6eCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmS6uCvEe6TJtzZ4cJc5A" x="558" y="-2443"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmS6-CvEe6TJtzZ4cJc5A" points="[0, 0, 0, -11]$[0, 11, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS7OCvEe6TJtzZ4cJc5A" id="996:391"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS7eCvEe6TJtzZ4cJc5A" id="1046:366"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmS7uCvEe6TJtzZ4cJc5A" element="_hzmTwuCvEe6TJtzZ4cJc5A" source="_hzlsHeCvEe6TJtzZ4cJc5A" target="_hzlsFuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmS7-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS8OCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS8eCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmS8uCvEe6TJtzZ4cJc5A" y="439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmS8-CvEe6TJtzZ4cJc5A" points="[0, 0, 317, 0]$[-317, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS9OCvEe6TJtzZ4cJc5A" id="1063:651"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS9eCvEe6TJtzZ4cJc5A" id="1101:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmS9uCvEe6TJtzZ4cJc5A" element="_hzmTw-CvEe6TJtzZ4cJc5A" source="_hzlsFuCvEe6TJtzZ4cJc5A" target="_hzlsD-CvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmS9-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS-OCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmS-eCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmS-uCvEe6TJtzZ4cJc5A" y="439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmS--CvEe6TJtzZ4cJc5A" points="[0, 0, 238, 0]$[-238, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS_OCvEe6TJtzZ4cJc5A" id="1123:684"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmS_eCvEe6TJtzZ4cJc5A" id="1176:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmS_uCvEe6TJtzZ4cJc5A" element="_hzmTxOCvEe6TJtzZ4cJc5A" source="_hzlr3OCvEe6TJtzZ4cJc5A" target="_hzlsFuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmS_-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTAOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTAeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTAuCvEe6TJtzZ4cJc5A" y="-293"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTA-CvEe6TJtzZ4cJc5A" points="[0, 0, -870, 0]$[870, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTBOCvEe6TJtzZ4cJc5A" id="1437:879"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTBeCvEe6TJtzZ4cJc5A" id="1502:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmTBuCvEe6TJtzZ4cJc5A" element="_hzmTxeCvEe6TJtzZ4cJc5A" source="_hzlsFuCvEe6TJtzZ4cJc5A" target="_hzlsHeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmTB-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTCOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTCeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTCuCvEe6TJtzZ4cJc5A" y="-293"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTC-CvEe6TJtzZ4cJc5A" points="[0, 0, -317, 0]$[317, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTDOCvEe6TJtzZ4cJc5A" id="2677:326"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTDeCvEe6TJtzZ4cJc5A" id="3120:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmTDuCvEe6TJtzZ4cJc5A" element="_hzmTxuCvEe6TJtzZ4cJc5A" source="_hzlsHeCvEe6TJtzZ4cJc5A" target="_hzlsHeCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmTD-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTEOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTEeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTEuCvEe6TJtzZ4cJc5A" y="-293"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTE-CvEe6TJtzZ4cJc5A" points="[0, 0, 0, -9]$[0, 9, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTFOCvEe6TJtzZ4cJc5A" id="3134:391"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTFeCvEe6TJtzZ4cJc5A" id="3166:265"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmTFuCvEe6TJtzZ4cJc5A" element="_hzmTx-CvEe6TJtzZ4cJc5A" source="_hzlsHeCvEe6TJtzZ4cJc5A" target="_hzlsFuCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmTF-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTGOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTGeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTGuCvEe6TJtzZ4cJc5A" y="439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTG-CvEe6TJtzZ4cJc5A" points="[0, 0, 317, 0]$[-317, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTHOCvEe6TJtzZ4cJc5A" id="3181:684"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTHeCvEe6TJtzZ4cJc5A" id="3213:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmTHuCvEe6TJtzZ4cJc5A" element="_hzmTyOCvEe6TJtzZ4cJc5A" source="_hzlsFuCvEe6TJtzZ4cJc5A" target="_hzlr3OCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmTH-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTIOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTIeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTIuCvEe6TJtzZ4cJc5A" y="439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTI-CvEe6TJtzZ4cJc5A" points="[0, 0, 1305, 0]$[-1305, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTJOCvEe6TJtzZ4cJc5A" id="3234:358"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTJeCvEe6TJtzZ4cJc5A" id="3266:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmTJuCvEe6TJtzZ4cJc5A" element="_hzmTyeCvEe6TJtzZ4cJc5A" source="_hzlsD-CvEe6TJtzZ4cJc5A" target="_hzlr1eCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmTJ-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTKOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTKeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTKuCvEe6TJtzZ4cJc5A" y="439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTK-CvEe6TJtzZ4cJc5A" points="[0, 0, 1259, 0]$[-1259, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTLOCvEe6TJtzZ4cJc5A" id="3377:749"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTLeCvEe6TJtzZ4cJc5A" id="3439:0"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hzmTLuCvEe6TJtzZ4cJc5A" element="_hzmTyuCvEe6TJtzZ4cJc5A" source="_hzlr3OCvEe6TJtzZ4cJc5A" target="_hzlr1eCvEe6TJtzZ4cJc5A" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_hzmTL-CvEe6TJtzZ4cJc5A" type="MessageNameLabel">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTMOCvEe6TJtzZ4cJc5A" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_hzmTMeCvEe6TJtzZ4cJc5A" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hzmTMuCvEe6TJtzZ4cJc5A" y="439"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hzmTM-CvEe6TJtzZ4cJc5A" points="[0, 0, 192, 0]$[-192, 0, 0, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTNOCvEe6TJtzZ4cJc5A" id="3477:684"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hzmTNeCvEe6TJtzZ4cJc5A" id="3527:0"/>
+              </edges>
+            </contents>
+          </eAnnotations>
+          <ownedConnector xmi:id="_hzmTNuCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTN-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ARA6EdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cliente?"/>
+            </end>
+            <end xmi:id="_hzmTOOCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ARA6EdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cliente?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTOeCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTOuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ARA6EdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cliente?"/>
+            </end>
+            <end xmi:id="_hzmTO-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_CgZiwdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Dashboard?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTPOCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTPeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_CgZiwdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Dashboard?"/>
+            </end>
+            <end xmi:id="_hzmTPuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_FXiH8dzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20recomendación?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTP-CvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTQOCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_CgZiwdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Dashboard?"/>
+            </end>
+            <end xmi:id="_hzmTQeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_G9_vcdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Catálogo?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTQuCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTQ-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_G9_vcdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Catálogo?"/>
+            </end>
+            <end xmi:id="_hzmTROCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_H9QNANzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/selección%20de%20categoría?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTReCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTRuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_H9QNANzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/selección%20de%20categoría?"/>
+            </end>
+            <end xmi:id="_hzmTR-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_KUiNcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/categoría?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTSOCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTSeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_G9_vcdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Catálogo?"/>
+            </end>
+            <end xmi:id="_hzmTSuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_G9_vcdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Catálogo?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTS-CvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTTOCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_KUiNcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/categoría?"/>
+            </end>
+            <end xmi:id="_hzmTTeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_KUiNcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/categoría?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTTuCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTT-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_KUiNcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/categoría?"/>
+            </end>
+            <end xmi:id="_hzmTUOCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_j2mKENz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Listado%20de%20productos?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTUeCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTUuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_j2mKENz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Listado%20de%20productos?"/>
+            </end>
+            <end xmi:id="_hzmTU-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_G9_vcdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Catálogo?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTVOCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTVeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_j2mKENz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Listado%20de%20productos?"/>
+            </end>
+            <end xmi:id="_hzmTVuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_pBwnYdz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20producto?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTV-CvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTWOCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_pBwnYdz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20producto?"/>
+            </end>
+            <end xmi:id="_hzmTWeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTWuCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTW-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+            </end>
+            <end xmi:id="_hzmTXOCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTXeCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTXuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_CgZiwdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Dashboard?"/>
+            </end>
+            <end xmi:id="_hzmTX-CvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_pBwnYdz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20producto?"/>
+            </end>
+          </ownedConnector>
+          <ownedConnector xmi:id="_hzmTYOCvEe6TJtzZ4cJc5A">
+            <end xmi:id="_hzmTYeCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_j2mKENz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Listado%20de%20productos?"/>
+            </end>
+            <end xmi:id="_hzmTYuCvEe6TJtzZ4cJc5A">
+              <role xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ARA6EdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cliente?"/>
+            </end>
+          </ownedConnector>
+          <lifeline xmi:id="_hzmTY-CvEe6TJtzZ4cJc5A" name="cliente" coveredBy="_hzmTbOCvEe6TJtzZ4cJc5A _hzmTbeCvEe6TJtzZ4cJc5A _hzmTbuCvEe6TJtzZ4cJc5A _hzmTb-CvEe6TJtzZ4cJc5A _hzmTcOCvEe6TJtzZ4cJc5A _hzmTkuCvEe6TJtzZ4cJc5A _hzmTk-CvEe6TJtzZ4cJc5A _hzmTlOCvEe6TJtzZ4cJc5A _hzmTr-CvEe6TJtzZ4cJc5A _hzmTsOCvEe6TJtzZ4cJc5A _hzmTseCvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_ARA6EdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cliente?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTZOCvEe6TJtzZ4cJc5A" name="uI-Dashboard" coveredBy="_hzmTceCvEe6TJtzZ4cJc5A _hzmTcuCvEe6TJtzZ4cJc5A _hzmTt-CvEe6TJtzZ4cJc5A _hzmTc-CvEe6TJtzZ4cJc5A _hzmTn-CvEe6TJtzZ4cJc5A _hzmTrOCvEe6TJtzZ4cJc5A _hzmTreCvEe6TJtzZ4cJc5A _hzmTsuCvEe6TJtzZ4cJc5A _hzmTruCvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_CgZiwdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Dashboard?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTZeCvEe6TJtzZ4cJc5A" name="cC-Selección de recomendación">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_FXiH8dzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20recomendación?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTZuCvEe6TJtzZ4cJc5A" name="uI-Catálogo" coveredBy="_hzmTdeCvEe6TJtzZ4cJc5A _hzmTnuCvEe6TJtzZ4cJc5A _hzmTdOCvEe6TJtzZ4cJc5A _hzmTduCvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_G9_vcdzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Catálogo?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTZ-CvEe6TJtzZ4cJc5A" name="selección de categoría" coveredBy="_hzmTd-CvEe6TJtzZ4cJc5A _hzmTeOCvEe6TJtzZ4cJc5A _hzmTneCvEe6TJtzZ4cJc5A _hzmTeeCvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_H9QNANzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/selección%20de%20categoría?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTaOCvEe6TJtzZ4cJc5A" name="categoría" coveredBy="_hzmTeuCvEe6TJtzZ4cJc5A _hzmTe-CvEe6TJtzZ4cJc5A _hzmTnOCvEe6TJtzZ4cJc5A _hzmTfOCvEe6TJtzZ4cJc5A _hzmTfeCvEe6TJtzZ4cJc5A _hzmTfuCvEe6TJtzZ4cJc5A _hzmTm-CvEe6TJtzZ4cJc5A _hzmTf-CvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_KUiNcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/categoría?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTaeCvEe6TJtzZ4cJc5A" name="uI-Listado de productos" coveredBy="_hzmTgeCvEe6TJtzZ4cJc5A _hzmTmuCvEe6TJtzZ4cJc5A _hzmTgOCvEe6TJtzZ4cJc5A _hzmTguCvEe6TJtzZ4cJc5A _hzmTj-CvEe6TJtzZ4cJc5A _hzmTkOCvEe6TJtzZ4cJc5A _hzmTleCvEe6TJtzZ4cJc5A _hzmTkeCvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_j2mKENz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/uI-Listado%20de%20productos?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTauCvEe6TJtzZ4cJc5A" name="cC-Selección de producto" coveredBy="_hzmThOCvEe6TJtzZ4cJc5A _hzmTmeCvEe6TJtzZ4cJc5A _hzmTg-CvEe6TJtzZ4cJc5A _hzmTheCvEe6TJtzZ4cJc5A _hzmTjOCvEe6TJtzZ4cJc5A _hzmTjeCvEe6TJtzZ4cJc5A _hzmTluCvEe6TJtzZ4cJc5A _hzmTjuCvEe6TJtzZ4cJc5A _hzmToOCvEe6TJtzZ4cJc5A _hzmToeCvEe6TJtzZ4cJc5A _hzmTtuCvEe6TJtzZ4cJc5A _hzmTouCvEe6TJtzZ4cJc5A _hzmTqeCvEe6TJtzZ4cJc5A _hzmTquCvEe6TJtzZ4cJc5A _hzmTs-CvEe6TJtzZ4cJc5A _hzmTq-CvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_pBwnYdz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/cC-Selección%20de%20producto?"/>
+          </lifeline>
+          <lifeline xmi:id="_hzmTa-CvEe6TJtzZ4cJc5A" name="producto" coveredBy="_hzmThuCvEe6TJtzZ4cJc5A _hzmTh-CvEe6TJtzZ4cJc5A _hzmTmOCvEe6TJtzZ4cJc5A _hzmTiOCvEe6TJtzZ4cJc5A _hzmTieCvEe6TJtzZ4cJc5A _hzmTiuCvEe6TJtzZ4cJc5A _hzmTl-CvEe6TJtzZ4cJc5A _hzmTi-CvEe6TJtzZ4cJc5A _hzmTo-CvEe6TJtzZ4cJc5A _hzmTpOCvEe6TJtzZ4cJc5A _hzmTteCvEe6TJtzZ4cJc5A _hzmTpeCvEe6TJtzZ4cJc5A _hzmTpuCvEe6TJtzZ4cJc5A _hzmTp-CvEe6TJtzZ4cJc5A _hzmTtOCvEe6TJtzZ4cJc5A _hzmTqOCvEe6TJtzZ4cJc5A">
+            <represents xmi:type="uml:Property" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_p8-5gNz5Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/RA_Dashboard/producto2?"/>
+          </lifeline>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTbOCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTuOCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTbeCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTuOCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTbuCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" start="_hzmTbeCvEe6TJtzZ4cJc5A" finish="_hzmTb-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTb-CvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" execution="_hzmTbuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTcOCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTueCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cApp4NzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTceCvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" message="_hzmTueCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_cApp4dzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTcuCvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" start="_hzmTceCvEe6TJtzZ4cJc5A" finish="_hzmTt-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTc-CvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" message="_hzmTuuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTdOCvEe6TJtzZ4cJc5A" covered="_hzmTZuCvEe6TJtzZ4cJc5A" message="_hzmTuuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTdeCvEe6TJtzZ4cJc5A" covered="_hzmTZuCvEe6TJtzZ4cJc5A" start="_hzmTdOCvEe6TJtzZ4cJc5A" finish="_hzmTnuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTduCvEe6TJtzZ4cJc5A" covered="_hzmTZuCvEe6TJtzZ4cJc5A" message="_hzmTu-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_vIGb4dzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent3?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTd-CvEe6TJtzZ4cJc5A" covered="_hzmTZ-CvEe6TJtzZ4cJc5A" message="_hzmTu-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_vIHC8NzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent3?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTeOCvEe6TJtzZ4cJc5A" covered="_hzmTZ-CvEe6TJtzZ4cJc5A" start="_hzmTd-CvEe6TJtzZ4cJc5A" finish="_hzmTneCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTeeCvEe6TJtzZ4cJc5A" covered="_hzmTZ-CvEe6TJtzZ4cJc5A" message="_hzmTvOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_3I-iENzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent4?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTeuCvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" message="_hzmTvOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_3I_JINzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent4?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTe-CvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" start="_hzmTeuCvEe6TJtzZ4cJc5A" finish="_hzmTnOCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTfOCvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" message="_hzmTveCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_JiYiUNzsEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent5?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTfeCvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" message="_hzmTveCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_JiZJYNzsEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent5?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTfuCvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" start="_hzmTfeCvEe6TJtzZ4cJc5A" finish="_hzmTm-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTf-CvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" message="_hzmTvuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTgOCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" message="_hzmTvuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTgeCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" start="_hzmTgOCvEe6TJtzZ4cJc5A" finish="_hzmTmuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTguCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" message="_hzmTv-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTg-CvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTv-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmThOCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" start="_hzmTg-CvEe6TJtzZ4cJc5A" finish="_hzmTmeCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTheCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTwOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Mz2xwNz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent7?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmThuCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTwOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Mz3Y0Nz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent7?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTh-CvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" start="_hzmThuCvEe6TJtzZ4cJc5A" finish="_hzmTmOCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTiOCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTweCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_TKY2ANz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent8?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTieCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTweCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_TKZdENz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent8?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTiuCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" start="_hzmTieCvEe6TJtzZ4cJc5A" finish="_hzmTl-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTi-CvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTwuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_a9cioNz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent9?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTjOCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTwuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_a9dJsNz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent9?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTjeCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" start="_hzmTjOCvEe6TJtzZ4cJc5A" finish="_hzmTluCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTjuCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTw-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_emcCkNz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent10?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTj-CvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" message="_hzmTw-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_emcCkdz6Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent10?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTkOCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" start="_hzmTj-CvEe6TJtzZ4cJc5A" finish="_hzmTleCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTkeCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" message="_hzmTyeCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTkuCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTyeCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTk-CvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" start="_hzmTkuCvEe6TJtzZ4cJc5A" finish="_hzmTlOCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTlOCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" execution="_hzmTk-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTleCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" execution="_hzmTkOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTluCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" execution="_hzmTjeCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTl-CvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" execution="_hzmTiuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTmOCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" execution="_hzmTh-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTmeCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" execution="_hzmThOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTmuCvEe6TJtzZ4cJc5A" covered="_hzmTaeCvEe6TJtzZ4cJc5A" execution="_hzmTgeCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTm-CvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" execution="_hzmTfuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTnOCvEe6TJtzZ4cJc5A" covered="_hzmTaOCvEe6TJtzZ4cJc5A" execution="_hzmTe-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTneCvEe6TJtzZ4cJc5A" covered="_hzmTZ-CvEe6TJtzZ4cJc5A" execution="_hzmTeOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTnuCvEe6TJtzZ4cJc5A" covered="_hzmTZuCvEe6TJtzZ4cJc5A" execution="_hzmTdeCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTn-CvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" message="_hzmTxOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_YG7WkNz8Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent11?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmToOCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTxOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_YG79oNz8Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent11?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmToeCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" start="_hzmToOCvEe6TJtzZ4cJc5A" finish="_hzmTtuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTouCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTxeCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTo-CvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTxeCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTpOCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" start="_hzmTo-CvEe6TJtzZ4cJc5A" finish="_hzmTteCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTpeCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTxuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_-vT8INz9Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent12?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTpuCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTxuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_-vUjMNz9Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent12?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTp-CvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" start="_hzmTpuCvEe6TJtzZ4cJc5A" finish="_hzmTtOCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTqOCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" message="_hzmTx-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_AjZI4Nz-Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent13?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTqeCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTx-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_AjZv8Nz-Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent13?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTquCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" start="_hzmTqeCvEe6TJtzZ4cJc5A" finish="_hzmTs-CvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTq-CvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" message="_hzmTyOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:SendOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_EsN_cNz-Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/SendOperationEvent14?"/>
+          </fragment>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTrOCvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" message="_hzmTyOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ReceiveOperationEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_EsN_cdz-Ee6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ReceiveOperationEvent14?"/>
+          </fragment>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTreCvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" start="_hzmTrOCvEe6TJtzZ4cJc5A" finish="_hzmTsuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTruCvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" message="_hzmTyuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hzmTr-CvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" message="_hzmTyuCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hzmTsOCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" start="_hzmTr-CvEe6TJtzZ4cJc5A" finish="_hzmTseCvEe6TJtzZ4cJc5A"/>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTseCvEe6TJtzZ4cJc5A" covered="_hzmTY-CvEe6TJtzZ4cJc5A" execution="_hzmTsOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTsuCvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" execution="_hzmTreCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTs-CvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" execution="_hzmTquCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTtOCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" execution="_hzmTp-CvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTteCvEe6TJtzZ4cJc5A" covered="_hzmTa-CvEe6TJtzZ4cJc5A" execution="_hzmTpOCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTtuCvEe6TJtzZ4cJc5A" covered="_hzmTauCvEe6TJtzZ4cJc5A" execution="_hzmToeCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_hzmTt-CvEe6TJtzZ4cJc5A" covered="_hzmTZOCvEe6TJtzZ4cJc5A" execution="_hzmTcuCvEe6TJtzZ4cJc5A">
+            <event xmi:type="uml:ExecutionEvent" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_Ou-YcNzrEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/ExecutionEvent1?"/>
+          </fragment>
+          <message xmi:id="_hzmTuOCvEe6TJtzZ4cJc5A" name="Inicializar pantalla" messageSort="asynchCall" receiveEvent="_hzmTbeCvEe6TJtzZ4cJc5A" sendEvent="_hzmTbOCvEe6TJtzZ4cJc5A" connector="_hzmTNuCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTueCvEe6TJtzZ4cJc5A" name="Buscar producto recomendado y presionar" messageSort="asynchCall" receiveEvent="_hzmTceCvEe6TJtzZ4cJc5A" sendEvent="_hzmTcOCvEe6TJtzZ4cJc5A" connector="_hzmTOeCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTuuCvEe6TJtzZ4cJc5A" name="Presionar el ícono de catálogo" messageSort="asynchCall" receiveEvent="_hzmTdOCvEe6TJtzZ4cJc5A" sendEvent="_hzmTc-CvEe6TJtzZ4cJc5A" connector="_hzmTP-CvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTu-CvEe6TJtzZ4cJc5A" name="Obtener id de categoría y enviar al controlador" messageSort="asynchCall" receiveEvent="_hzmTd-CvEe6TJtzZ4cJc5A" sendEvent="_hzmTduCvEe6TJtzZ4cJc5A" connector="_hzmTQuCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTvOCvEe6TJtzZ4cJc5A" name="Enviar la consulta de existencia de categoría por id" messageSort="asynchCall" receiveEvent="_hzmTeuCvEe6TJtzZ4cJc5A" sendEvent="_hzmTeeCvEe6TJtzZ4cJc5A" connector="_hzmTReCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTveCvEe6TJtzZ4cJc5A" name="Validar dato especificado" messageSort="asynchCall" receiveEvent="_hzmTfeCvEe6TJtzZ4cJc5A" sendEvent="_hzmTfOCvEe6TJtzZ4cJc5A" connector="_hzmTS-CvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTvuCvEe6TJtzZ4cJc5A" name="Enviar información sobre la consulta" messageSort="asynchCall" receiveEvent="_hzmTgOCvEe6TJtzZ4cJc5A" sendEvent="_hzmTf-CvEe6TJtzZ4cJc5A" connector="_hzmTTuCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTv-CvEe6TJtzZ4cJc5A" name="Buscar productos por id de categoría" messageSort="asynchCall" receiveEvent="_hzmTg-CvEe6TJtzZ4cJc5A" sendEvent="_hzmTguCvEe6TJtzZ4cJc5A" connector="_hzmTVOCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTwOCvEe6TJtzZ4cJc5A" name="Enviar la consulta de búsqueda de productos por categoría" messageSort="asynchCall" receiveEvent="_hzmThuCvEe6TJtzZ4cJc5A" sendEvent="_hzmTheCvEe6TJtzZ4cJc5A" connector="_hzmTV-CvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTweCvEe6TJtzZ4cJc5A" name="Validar dato especificado" messageSort="asynchCall" receiveEvent="_hzmTieCvEe6TJtzZ4cJc5A" sendEvent="_hzmTiOCvEe6TJtzZ4cJc5A" connector="_hzmTWuCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTwuCvEe6TJtzZ4cJc5A" name="Enviar información sobre la consulta" messageSort="asynchCall" receiveEvent="_hzmTjOCvEe6TJtzZ4cJc5A" sendEvent="_hzmTi-CvEe6TJtzZ4cJc5A" connector="_hzmTV-CvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTw-CvEe6TJtzZ4cJc5A" name="Crear la respuesta para listar productos" messageSort="asynchCall" receiveEvent="_hzmTj-CvEe6TJtzZ4cJc5A" sendEvent="_hzmTjuCvEe6TJtzZ4cJc5A" connector="_hzmTVOCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTxOCvEe6TJtzZ4cJc5A" name="Obtener id de producto y enviar al controlador" messageSort="asynchCall" receiveEvent="_hzmToOCvEe6TJtzZ4cJc5A" sendEvent="_hzmTn-CvEe6TJtzZ4cJc5A" connector="_hzmTXeCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTxeCvEe6TJtzZ4cJc5A" name="Enviar la consulta de búsqueda de producto" messageSort="asynchCall" receiveEvent="_hzmTo-CvEe6TJtzZ4cJc5A" sendEvent="_hzmTouCvEe6TJtzZ4cJc5A" connector="_hzmTV-CvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTxuCvEe6TJtzZ4cJc5A" name="Validar dato especificado" messageSort="asynchCall" receiveEvent="_hzmTpuCvEe6TJtzZ4cJc5A" sendEvent="_hzmTpeCvEe6TJtzZ4cJc5A" connector="_hzmTWuCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTx-CvEe6TJtzZ4cJc5A" name="Enviar información sobre la consulta" messageSort="asynchCall" receiveEvent="_hzmTqeCvEe6TJtzZ4cJc5A" sendEvent="_hzmTqOCvEe6TJtzZ4cJc5A" connector="_hzmTV-CvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTyOCvEe6TJtzZ4cJc5A" name="Crear la respuesta para mostrar detalles del producto" messageSort="asynchCall" receiveEvent="_hzmTrOCvEe6TJtzZ4cJc5A" sendEvent="_hzmTq-CvEe6TJtzZ4cJc5A" connector="_hzmTXeCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTyeCvEe6TJtzZ4cJc5A" name="Cargar interfaz" messageSort="asynchCall" receiveEvent="_hzmTkuCvEe6TJtzZ4cJc5A" sendEvent="_hzmTkeCvEe6TJtzZ4cJc5A" connector="_hzmTYOCvEe6TJtzZ4cJc5A"/>
+          <message xmi:id="_hzmTyuCvEe6TJtzZ4cJc5A" name="Cargar interfaz" messageSort="asynchCall" receiveEvent="_hzmTr-CvEe6TJtzZ4cJc5A" sendEvent="_hzmTruCvEe6TJtzZ4cJc5A" connector="_hzmTOeCvEe6TJtzZ4cJc5A"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_nAZu8OCvEe6TJtzZ4cJc5A" name="cliente">
+          <type xmi:type="uml:Actor" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20Caso%20de%20Uso.emx#_jNncAMrFEe6JpLQQPsCucw?Modelo%20de%20Caso%20de%20Uso/ACTORES%20DE%20SISTEMA/Cliente?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAZu8eCvEe6TJtzZ4cJc5A" name="uI-Dashboard">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_n40coNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Dashboard?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAaWAOCvEe6TJtzZ4cJc5A" name="cC-Selección de recomendación">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_xfLS4NzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20recomendación?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAaWAeCvEe6TJtzZ4cJc5A" name="uI-Catálogo">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_t0zS4NzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Catálogo?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAa9EOCvEe6TJtzZ4cJc5A" name="selección de categoría">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_y-0gsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20categoría?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAa9EeCvEe6TJtzZ4cJc5A" name="categoría">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_1lb9oNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Categoría?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAbkIOCvEe6TJtzZ4cJc5A" name="selección de producto">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_0A5BsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAbkIeCvEe6TJtzZ4cJc5A" name="producto">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_09nvsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAcLMOCvEe6TJtzZ4cJc5A" name="uI-Listado de productos">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_69T54NzsEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/UI-Listado%20de%20productos?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAcyQOCvEe6TJtzZ4cJc5A" name="cC-Selección de producto">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_0A5BsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/CC-Selección%20de%20producto?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nAdZUOCvEe6TJtzZ4cJc5A" name="producto2">
+          <type xmi:type="uml:Class" href="platform:/resource/Modelo-del-Negocio-BoraBora/Modelo%20de%20análisis%20del%20Sistema.emx#_09nvsNzpEe6muLGAqzOlYQ?Modelo%20de%20análisis%20del%20Sistema/Mantenimientos/Producto?"/>
+        </ownedAttribute>
+      </packagedElement>
       <packagedElement xmi:type="uml:Realization" xmi:id="_xmezsNtHEe6Dx7dh4oBfTQ" client="_xKR_4NtHEe6Dx7dh4oBfTQ">
         <supplier xmi:type="uml:UseCase" href="Modelo%20de%20Caso%20de%20Uso.emx#_yTkugMrFEe6JpLQQPsCucw?Modelo%20de%20Caso%20de%20Uso/CASOS%20DE%20USO%20DE%20SISTEMA/Visualizar%20un%20Dashboard?"/>
       </packagedElement>
